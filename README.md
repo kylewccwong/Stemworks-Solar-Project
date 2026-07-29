@@ -1,4 +1,6 @@
 # Stemworks Solar Project
  2026 Stemworks-Chaminade University Data Science Cohort! Linked below are our oahu_solar_simple.geojson which included
 data that used computer vision models to detect solar infrastructure on Oahu and our solar_mapping_kwh and solar_mapping_git scripts.
-The solar_mapping_kwh file includes the code used to produce our 2 visualizations in video presentation and the solar_mapping_git includes the entire R script Trent and I used throughout the internship as well as notes that explain our process. 
+The solar_mapping_kwh file includes the code used to produce the 2 visualizations in our video presentation and the solar_mapping_git includes the entire R script Trent and I used throughout the internship as well as notes that explain our process. 
+
+ For our project we coded in R and analyzed a newly generated dataset produced by Chaminade. This dataset used satellites to detect 102,000 solar installations across Oahu. In our analysis, we divided Oahu into 330 area tracts and explored the relationship between census tract data and solar adoption across the island. Using census data, we explored how specific variables correlated with the amount of solar infrastructure in a given area. In our solar_mapping_kwh file, we explored how median household income, home value, and Native Hawaiian and Pacific Islander occupancy impacted the level of solar infrastructure across the island. Our findings saw the biggest correlation between home value and amount of solar infrastructure. 
